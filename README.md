@@ -48,3 +48,9 @@
 
         modified:   README.md
         modified:   apps/listings/models.py
+
+
+#### 2.3 Creating and applying migrations
+
+        modified:   README.md
+        new file:   apps/listings/migrations/0001_initial.py
