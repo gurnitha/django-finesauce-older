@@ -80,3 +80,8 @@
 
         modified:   README.md
 
+
+#### 2.8 Displaying our categories and products Part 1 - Building our product list view
+
+        modified:   README.md
+        modified:   apps/listings/views.py
