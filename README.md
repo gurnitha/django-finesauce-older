@@ -85,3 +85,15 @@
 
         modified:   README.md
         modified:   apps/listings/views.py
+
+
+#### 2.9 Displaying our categories and products Part 2 - Creating template for our product list
+
+        modified:   README.md
+        new file:   static_in_env/css/bootstrap.min.css
+        new file:   static_in_env/css/fonts/google-fonts.css
+        new file:   static_in_env/css/style.css
+        new file:   static_in_env/js/scripts.js
+        modified:   templates/base.html
+        renamed:    templates/listings/index.html -> templates/product/detail.html
+        new file:   templates/product/list.html
