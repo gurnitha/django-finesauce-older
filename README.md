@@ -54,3 +54,9 @@
 
         modified:   README.md
         new file:   apps/listings/migrations/0001_initial.py
+
+
+#### 2.4 Creating administration site (create superuser)
+
+        > (venv3932) λ python manage.py createsuperuser
+        modified:   README.md
