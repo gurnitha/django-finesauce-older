@@ -105,3 +105,12 @@
         modified:   apps/listings/views.py
         new file:   static_in_env/css/admin.css
         new file:   static_in_env/css/pdf.css        
+
+
+#### 2.11 Displaying our categories and products Part 4 -  Filtering by category
+
+        modified:   README.md
+        modified:   apps/listings/models.py
+        modified:   apps/listings/urls.py
+        modified:   apps/listings/views.py
+        modified:   templates/product/list.html
