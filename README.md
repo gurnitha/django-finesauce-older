@@ -59,4 +59,12 @@
 #### 2.4 Creating administration site (create superuser)
 
         > (venv3932) λ python manage.py createsuperuser
+
         modified:   README.md
+
+
+#### 2.5 Adding models to the administration site
+
+        modified:   README.md
+        modified:   apps/listings/admin.py
+        modified:   apps/listings/models.py
