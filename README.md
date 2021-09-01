@@ -42,3 +42,9 @@
 #### 2.2 Create and add new database
 
         modified:   README.md
+
+
+#### 2.3 Create Category and Product models
+
+        modified:   README.md
+        modified:   apps/listings/models.py
