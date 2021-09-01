@@ -68,3 +68,9 @@
         modified:   README.md
         modified:   apps/listings/admin.py
         modified:   apps/listings/models.py
+
+
+#### 2.6 Customizing how models are displayed
+
+        modified:   README.md
+        modified:   apps/listings/admin.py
