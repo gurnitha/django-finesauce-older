@@ -97,3 +97,11 @@
         modified:   templates/base.html
         renamed:    templates/listings/index.html -> templates/product/detail.html
         new file:   templates/product/list.html
+
+
+#### 2.10 Displaying our categories and products Part 3 - Views and urls for produc list
+
+        modified:   apps/listings/urls.py
+        modified:   apps/listings/views.py
+        new file:   static_in_env/css/admin.css
+        new file:   static_in_env/css/pdf.css        

@@ -4,11 +4,11 @@
 from django.urls import path
 
 # Django locals
-from apps.listings.views import home_page
+from apps.listings.views import product_list
 
 # appname
 app_name = 'listings'
 
 urlpatterns = [
-    path('', home_page, name='home_page'),
+    path('', product_list, name='product_list'),
 ]
