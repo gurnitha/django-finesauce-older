@@ -1,0 +1,13 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>{% block title %} {% endblock title %} | Jesco</title>
+	<link rel="stylesheet" type="text/css" href="{% static 'starter.css' %}">
+</head>
+<body>
+	{% block content %}
+	{% endblock content %}
+</body>
+</html>

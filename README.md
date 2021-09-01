@@ -1,0 +1,41 @@
+#### Bilding and deploying real-world, fully functional e-commerce application based on Django Made Easy book
+
+
+### ========
+### 1. SETUP
+### ========
+
+
+#### 1.1.1 Setup DONE, refer to README-SETUP.md
+
+
+### ===============================
+### 2 Creating listings application
+### ===============================
+
+
+#### 2.1 Creating listings application
+
+        new file:   .gitignore
+        new file:   README-SETUP.md
+        new file:   README.md
+        new file:   apps/listings/__init__.py
+        new file:   apps/listings/admin.py
+        new file:   apps/listings/apps.py
+        new file:   apps/listings/migrations/__init__.py
+        new file:   apps/listings/models.py
+        new file:   apps/listings/tests.py
+        new file:   apps/listings/urls.py
+        new file:   apps/listings/views.py
+        new file:   config/__init__.py
+        new file:   config/asgi.py
+        new file:   config/settings.py
+        new file:   config/urls.py
+        new file:   config/wsgi.py
+        new file:   manage.py
+        new file:   requirements.txt
+        new file:   static_in_env/starter.css
+        new file:   templates/base.html
+        new file:   templates/listings/index.html
+
+

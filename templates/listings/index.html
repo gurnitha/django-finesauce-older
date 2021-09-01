@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% load static %}
+{% block title %}{{block.super}}Home{% endblock title %}
+{% block content %}
+	<div class="container">
+		<h1>Hello World!</h1>
+		<h3>This is ING Django Starter Project!</h3>
+		<h4>Do these to set it up further:</h4>
+		<ol>
+			<li>Create database</li>
+			<li>Add your database credentials to .env file</li>
+			<li>Change Django SECRET_KEY in production</li>
+			<li>Add assets to static_in_env folder</li>
+			<li>Run python manage.py collectstatic</li>
+			<li>Setup your templates</li>
+		</ol>
+
+	</div>
+{% endblock content %}
