@@ -39,3 +39,6 @@
         new file:   templates/listings/index.html
 
 
+#### 2.2 Create and add new database
+
+        modified:   README.md
