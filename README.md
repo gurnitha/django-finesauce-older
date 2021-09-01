@@ -74,3 +74,9 @@
 
         modified:   README.md
         modified:   apps/listings/admin.py
+
+
+#### 2.7 Inserting categories and products
+
+        modified:   README.md
+
