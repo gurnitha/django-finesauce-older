@@ -211,3 +211,12 @@
         new file:   apps/cart/views.py
         modified:   apps/listings/models.py
         modified:   config/settings.py
+
+
+#### 3.2 Create CartAddProductForm
+
+        modified:   README.md
+        new file:   apps/cart/forms.py
+
+
+
