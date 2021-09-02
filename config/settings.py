@@ -51,6 +51,7 @@ INSTALLED_APPS = [
 
     # First party apps
     'apps.listings.apps.ListingsConfig',
+    'apps.cart.apps.CartConfig',
 ]
 
 MIDDLEWARE = [
@@ -157,3 +158,7 @@ STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static_in_env')]
 VENV_PATH = os.path.dirname(BASE_DIR)
 STATIC_ROOT = os.path.join(VENV_PATH, 'static_root')
 MEDIA_ROOT = os.path.join(VENV_PATH, 'media_root')
+
+
+# Shoping cart
+CART_ID = 'cart'

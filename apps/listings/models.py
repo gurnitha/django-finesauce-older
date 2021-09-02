@@ -49,7 +49,8 @@ class Product(models.Model):
 			total_score = sum([review.rating for review in self.reviews.all()])
 			average_score = total_score / self.reviews.count()
 		return round(average_score, 1)
-		
+
+
 # MODEL:Review
 class Review(models.Model):
 	
@@ -61,4 +62,3 @@ class Review(models.Model):
 
 	class Meta:
 		ordering = ('-created',)
-

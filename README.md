@@ -193,3 +193,21 @@
         modified:   README.md
         modified:   apps/listings/models.py
 
+
+### ===============
+### 3 Shopping cart
+### ===============
+
+
+#### 3.1 Create a new app 'apps/cart'
+
+        modified:   README.md
+        new file:   apps/cart/__init__.py
+        new file:   apps/cart/admin.py
+        new file:   apps/cart/apps.py
+        new file:   apps/cart/migrations/__init__.py
+        new file:   apps/cart/models.py
+        new file:   apps/cart/tests.py
+        new file:   apps/cart/views.py
+        modified:   apps/listings/models.py
+        modified:   config/settings.py
