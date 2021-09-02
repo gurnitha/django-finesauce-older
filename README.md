@@ -150,3 +150,9 @@
         modified:   README.md
         modified:   apps/listings/views.py
         modified:   templates/product/detail.html
+
+
+#### 2.17 Review - Modified label rating html attributes using django form attributes
+        
+        modified:   README.md
+        modified:   templates/product/detail.html
