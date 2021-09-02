@@ -126,20 +126,27 @@
         modified:   templates/product/list.html
 
 
-#### 2.13 Adding reviews
+#### 2.13 Review - Adding reviews modal
 
         modified:   README.md
         modified:   templates/product/detail.html
 
 
-#### 2.14 Create Review model and apply migrations
+#### 2.14 Review - Create Review model and apply migrations
 
         modified:   README.md
         new file:   apps/listings/migrations/0002_auto_20210902_0712.py
         modified:   apps/listings/models.py
 
 
-#### 2.15 Create Review form
+#### 2.15 Review - Create Review form
 
         modified:   README.md
         new file:   apps/listings/forms.py
+
+
+#### 2.16 Review - Adding conditional to views and modified textarea detail page
+
+        modified:   README.md
+        modified:   apps/listings/views.py
+        modified:   templates/product/detail.html
