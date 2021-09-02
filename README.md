@@ -114,3 +114,13 @@
         modified:   apps/listings/urls.py
         modified:   apps/listings/views.py
         modified:   templates/product/list.html
+
+
+#### 2.12 Product detail page
+
+        modified:   README.md
+        modified:   apps/listings/models.py
+        modified:   apps/listings/urls.py
+        modified:   apps/listings/views.py
+        modified:   templates/product/detail.html
+        modified:   templates/product/list.html

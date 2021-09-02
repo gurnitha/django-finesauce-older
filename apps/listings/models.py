@@ -38,3 +38,6 @@ class Product(models.Model):
 
 	class Meta:
 		ordering = ('shu',)
+
+	def get_absolute_url(self):
+		return reverse('listings:product_detail',args=[self.category.slug, self.slug])
