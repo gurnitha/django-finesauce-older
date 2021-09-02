@@ -164,5 +164,9 @@
         modified:   templates/product/detail.html
 
 
+#### 2.19 Review - Re-modified 2.18
+
+        modified:   README.md
+        modified:   templates/product/detail.html
 
 
