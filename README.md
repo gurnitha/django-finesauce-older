@@ -219,4 +219,7 @@
         new file:   apps/cart/forms.py
 
 
+#### 3.3 Create get_cart view
 
+        modified:   README.md
+        modified:   apps/cart/views.py
