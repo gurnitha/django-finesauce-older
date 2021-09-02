@@ -186,4 +186,10 @@
 
         modified:   README.md
         modified:   templates/product/detail.html
-        
+
+
+#### 2.22 Define get_average_review_score function for average rating calculation for our products
+
+        modified:   README.md
+        modified:   apps/listings/models.py
+
