@@ -180,3 +180,10 @@
 
         modified:   README.md
         modified:   apps/listings/admin.py
+
+
+#### 2.22 Review - Showing review in detail page
+
+        modified:   README.md
+        modified:   templates/product/detail.html
+        
