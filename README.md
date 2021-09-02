@@ -174,3 +174,9 @@
 
         modified:   README.md
         modified:   apps/listings/forms.py
+
+
+#### 2.21 Review - Register Review model to admin
+
+        modified:   README.md
+        modified:   apps/listings/admin.py
