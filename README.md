@@ -170,3 +170,7 @@
         modified:   templates/product/detail.html
 
 
+#### 2.20 Review - Removing REVIEW_CHOICES rating in forms.py
+
+        modified:   README.md
+        modified:   apps/listings/forms.py
