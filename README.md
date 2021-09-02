@@ -130,3 +130,10 @@
 
         modified:   README.md
         modified:   templates/product/detail.html
+
+
+#### 2.14 Create Review model and apply migrations
+
+        modified:   README.md
+        new file:   apps/listings/migrations/0002_auto_20210902_0712.py
+        modified:   apps/listings/models.py
