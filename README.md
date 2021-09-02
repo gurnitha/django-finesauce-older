@@ -156,3 +156,13 @@
         
         modified:   README.md
         modified:   templates/product/detail.html
+
+
+#### 2.18 Review - Re-modified 2.17 
+
+        modified:   README.md
+        modified:   templates/product/detail.html
+
+
+
+
