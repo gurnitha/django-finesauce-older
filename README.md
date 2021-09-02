@@ -124,3 +124,9 @@
         modified:   apps/listings/views.py
         modified:   templates/product/detail.html
         modified:   templates/product/list.html
+
+
+#### 2.13 Adding reviews
+
+        modified:   README.md
+        modified:   templates/product/detail.html
