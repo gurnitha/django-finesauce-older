@@ -11,6 +11,7 @@ from apps.cart.forms import CartAddProductForm
 
 # Create your views here.
 
+
 # View:get_cart
 def get_cart(request):
 	cart = request.session.get(settings.CART_ID)
@@ -68,3 +69,15 @@ def detail_cart(request):
 	}
 
 	return render(request,'detail.html', context)
+
+
+# View:detail_cart
+def remove_cart(request, product_id):
+	cart = get_cart(request)
+	product_id = str(product_id)
+	if product_id in cart:
+		del cart[product_id]
+	
+	request.session.modified = True
+	
+	return redirect('cart:detail_cart')

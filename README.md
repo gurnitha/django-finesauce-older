@@ -236,3 +236,9 @@
         modified:   README.md
         modified:   apps/cart/views.py
 
+
+#### 3.6 Create remove_cart view
+
+        modified:   README.md
+        modified:   apps/cart/views.py
+
