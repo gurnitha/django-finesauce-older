@@ -6,7 +6,7 @@ from django.conf import settings
 from decimal import Decimal
 
 # Locals
-from listings.models import Product
+from apps.listings.models import Product
 from apps.cart.forms import CartAddProductForm
 
 # Create your views here.

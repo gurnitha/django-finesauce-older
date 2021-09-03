@@ -248,3 +248,10 @@
         modified:   README.md
         modified:   apps/cart/views.py
 
+
+#### 3.8 Create URLs and mapping them to those views
+
+        modified:   README.md
+        new file:   apps/cart/urls.py
+        modified:   apps/cart/views.py
+        modified:   config/urls.py
