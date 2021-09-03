@@ -230,3 +230,9 @@
         modified:   README.md
         modified:   apps/cart/views.py
 
+
+#### 3.5 Create detail_cart view
+
+        modified:   README.md
+        modified:   apps/cart/views.py
+
