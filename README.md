@@ -255,3 +255,10 @@
         new file:   apps/cart/urls.py
         modified:   apps/cart/views.py
         modified:   config/urls.py
+
+
+#### 3.9  Displaying cart - creating detail page
+
+        modified:   README.md
+        new file:   apps/cart/templates/cart/detail.html
+
