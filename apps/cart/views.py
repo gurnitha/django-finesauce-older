@@ -81,3 +81,8 @@ def remove_cart(request, product_id):
 	request.session.modified = True
 	
 	return redirect('cart:detail_cart')
+
+
+# View:clear_cart
+def clear_cart(request):
+	del request.session[settings.CART_ID]

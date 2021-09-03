@@ -242,3 +242,9 @@
         modified:   README.md
         modified:   apps/cart/views.py
 
+
+#### 3.7 Create clear_cart view
+
+        modified:   README.md
+        modified:   apps/cart/views.py
+
