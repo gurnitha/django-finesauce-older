@@ -262,3 +262,14 @@
         modified:   README.md
         new file:   apps/cart/templates/cart/detail.html
 
+
+#### 3.10  Adding products to the cart part 1
+
+        modified:   README.md
+        modified:   apps/cart/templates/cart/detail.html
+        modified:   apps/cart/views.py
+        modified:   apps/listings/views.py
+        modified:   templates/product/detail.html
+
+
+

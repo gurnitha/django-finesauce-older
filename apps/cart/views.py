@@ -68,7 +68,7 @@ def detail_cart(request):
 		'cart_total_price': cart_total_price	
 	}
 
-	return render(request,'detail.html', context)
+	return render(request,'cart/detail.html', context)
 
 
 # View:detail_cart
